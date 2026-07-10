@@ -1,6 +1,6 @@
 ---
 title: 첫 번째 글 제목
-date: 2026-07-11
+date: 2026-07-10
 categories: [카테고리명, 하위카테고리]
 tags: [태그1, 태그2]
 math: true
