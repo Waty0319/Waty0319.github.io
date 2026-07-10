@@ -14,6 +14,4 @@ A . Finding Best-Fitting Polynomial Curve With Bayesian Perspective
   3. find the value of coefficient with MAP(Maximum Posterior)
 
 1. set prior distribution of coefficient with hyperparameter
-$$
-P(W|\alpha)
-$$
+$P(W|\alpha)$
